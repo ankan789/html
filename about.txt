@@ -1,0 +1,2 @@
+this project is an experiment perpus
+to use mouseup() for entire website. click anywhere in the the website and mouseup should work.
